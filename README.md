@@ -36,5 +36,4 @@ python app.py
 4. Open in browser:  
 Navigate to `http://localhost:5000`
 
-## 📫 Contact
-For more info, contact [Your Name] at [your-email@example.com]
+
